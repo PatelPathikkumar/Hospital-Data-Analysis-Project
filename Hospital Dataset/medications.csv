@@ -1,0 +1,16 @@
+medication_id,medication_name,form,unit_price,manufacturer
+M001,Atorvastatin,Tablet,212.36,"Rodriguez, Morgan and Jones"
+M002,Metformin,Tablet,542.7,"Williams, Lawson and Graham"
+M003,Amoxicillin,Capsule,218.56,"Greer, Rice and Best"
+M004,Paracetamol,Tablet,226.12,Nelson-Lee
+M005,Losartan,Tablet,867.97,"Gonzalez, Myers and Simon"
+M006,Insulin Glargine,Injection,676.61,Taylor LLC
+M007,Salbutamol,Inhaler,332.01,"Mcbride, Jones and Conway"
+M008,Omeprazole,Capsule,668.97,"Blake, Flores and Wilson"
+M009,Ibuprofen,Tablet,155.71,"Salazar, Estrada and Acosta"
+M010,Azithromycin,Tablet,229.29,"Jackson, Brown and Murphy"
+M011,Cetirizine,Tablet,360.7,"Pratt, Watkins and Jackson"
+M012,Warfarin,Tablet,141.0,"Roy, Day and Garcia"
+M013,Levothyroxine,Tablet,875.99,Moore-Aguilar
+M014,Ciprofloxacin,Tablet,507.23,"Nelson, Rodriguez and Rodriguez"
+M015,Prednisolone,Tablet,457.72,Potter and Sons

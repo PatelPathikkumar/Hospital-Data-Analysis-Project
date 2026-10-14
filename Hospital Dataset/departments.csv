@@ -1,0 +1,15 @@
+department_id,department_name,operating_cost_monthly,num_beds,location_floor
+D01,Cardiology,1067312.16,13,6
+D02,Orthopedics,630035.18,38,2
+D03,Neurology,1183765.46,79,1
+D04,Pediatrics,1008591.01,14,1
+D05,Oncology,412434.29,39,5
+D06,General Medicine,1022422.47,35,6
+D07,Emergency,1079861.33,79,4
+D08,Radiology,564528.75,45,1
+D09,Gynecology,1210568.84,30,6
+D10,Dermatology,807137.28,45,2
+D11,ENT,558376.51,53,1
+D12,Urology,411295.01,22,3
+D13,Cardiology ,1316993.24,43,1
+D14,ENT Dept,1175678.14,78,1
